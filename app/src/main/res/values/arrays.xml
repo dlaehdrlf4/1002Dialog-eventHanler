@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="player">
+        <item>르브론제임스</item>
+        <item>코비브라이언트</item>
+        <item>테이텀</item>
+        <item>커리</item>
+        <item>카이리 어빙</item>
+        <item>마이클조던</item>
+        <item>론조볼</item>
+        <item>조던클락슨</item>
+        <item>크리스폴</item>
+    </string-array>
+
+</resources>
